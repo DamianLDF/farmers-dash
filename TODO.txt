@@ -1,0 +1,21 @@
+X FARMER move
+X pig move AI
+X Pig stamina + dash
+X Unify frame, position and move logic for farmer and pig
+X stage + ready message
+X Grabbing + winning messge
+X Music: title, game, win
+X Sounds: dash, random pig, grab
+- Fix browser music
+- timer
+- Z position
+- Dash + dash cool down + icon
+X more stages + more pigs
+- Pause menu
+- Winning animation
+- Chicken
+- Farmer defeated animation
+- Re do menu load using data tables + same for options
+- Play as pig + farmer IA
+- 2 player
+- Compile both NTSC and PAL ROMs
